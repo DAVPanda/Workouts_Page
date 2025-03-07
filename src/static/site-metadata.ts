@@ -11,7 +11,7 @@ interface ISiteMetadataResult {
 }
 
 const data: ISiteMetadataResult = {
-  siteTitle: 'Workouts Page',
+  siteTitle: 'LYX\'S Workouts Page',
   siteUrl: 'https://davpanda.github.io/Workouts_Page/',
   logo: 'https://i.imgur.com/A2DzEyn.jpeg',
   description: 'Personal site and blog',
