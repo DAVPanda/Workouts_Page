@@ -140,6 +140,7 @@ const deepAqua = 'rgb(73, 136, 154)';    // 深水色
 // issues #92 and #198
 
 // 更新导出颜色部分
+export const NEED_FIX_MAP = false;
 export const MAIN_COLOR = sageGreen;
 export const RUN_COLOR = mutedCoral;      // 跑步-珊瑚色代表活力
 export const RIDE_COLOR = pineGreen;      // 骑行-自然绿色系
