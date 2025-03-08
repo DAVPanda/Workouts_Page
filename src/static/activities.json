@@ -240,6 +240,22 @@
 "streak": 1
 },
 {
+"run_id": 1598867213000,
+"name": "",
+"distance": 225.0,
+"moving_time": "0:15:58.366000",
+"type": "swimming",
+"start_date": "2020-08-31 09:46:53",
+"start_date_local": "2020-08-31 17:46:53",
+"location_country": "",
+"summary_polyline": null,
+"average_heartrate": null,
+"average_speed": 0.54,
+"elevation_gain": 0.0,
+"source": "",
+"streak": 1
+},
+{
 "run_id": 1599049072000,
 "name": "",
 "distance": 8175.5,
