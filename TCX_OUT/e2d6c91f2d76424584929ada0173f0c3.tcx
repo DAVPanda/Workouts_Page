@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TrainingCenterDatabase
+  xsi:schemaLocation="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2 http://www.garmin.com/xmlschemas/TrainingCenterDatabasev2.xsd"
+  xmlns:ns5="http://www.garmin.com/xmlschemas/ActivityGoals/v1"
+  xmlns:ns3="http://www.garmin.com/xmlschemas/ActivityExtension/v2"
+  xmlns:ns2="http://www.garmin.com/xmlschemas/UserProfile/v2"
+  xmlns="http://www.garmin.com/xmlschemas/TrainingCenterDatabase/v2"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns4="http://www.garmin.com/xmlschemas/ProfileExtension/v1">
+  <Activities>
+    <Activity Sport="Running">
+      <Id>2021-06-06T11:02:00.000Z</Id>
+      <Lap StartTime="2021-06-06T11:02:00.000Z">
+        <TotalTimeSeconds>5522.0</TotalTimeSeconds>
+        <DistanceMeters>15690.0</DistanceMeters>
+        <MaximumSpeed>4.131999969482422</MaximumSpeed>
+        <Calories>1063</Calories>
+        <AverageHeartRateBpm>
+          <Value>155</Value>
+        </AverageHeartRateBpm>
+        <MaximumHeartRateBpm>
+          <Value>173</Value>
+        </MaximumHeartRateBpm>
+        <Intensity>Active</Intensity>
+        <TriggerMethod>Manual</TriggerMethod>
+        <Extensions>
+          <ns3:LX>
+            <ns3:AvgSpeed>2.8410000801086426</ns3:AvgSpeed>
+            <ns3:AvgRunCadence>82</ns3:AvgRunCadence>
+            <ns3:MaxRunCadence>90</ns3:MaxRunCadence>
+          </ns3:LX>
+        </Extensions>
+      </Lap>
+    </Activity>
+  </Activities>
+  <Author xsi:type="Application_t">
+    <Name>Connect Api</Name>
+    <Build>
+      <Version>
+        <VersionMajor>25</VersionMajor>
+        <VersionMinor>3</VersionMinor>
+        <BuildMajor>0</BuildMajor>
+        <BuildMinor>0</BuildMinor>
+      </Version>
+    </Build>
+    <LangID>en</LangID>
+    <PartNumber>006-D2449-00</PartNumber>
+  </Author>
+</TrainingCenterDatabase>
